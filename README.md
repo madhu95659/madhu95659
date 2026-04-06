@@ -1,83 +1,83 @@
-<style>
-.header {
-  background: linear-gradient(45deg, #667eea, #764ba2);
-  color: white;
-  padding: 20px;
-  border-radius: 10px;
-  text-align: center;
-  margin-bottom: 20px;
-}
-.about {
-  background: linear-gradient(45deg, #f093fb, #f5576c);
-  color: white;
-  padding: 20px;
-  border-radius: 10px;
-  margin-bottom: 20px;
-}
-.interests {
-  background: linear-gradient(45deg, #4facfe, #00f2fe);
-  color: white;
-  padding: 20px;
-  border-radius: 10px;
-  margin-bottom: 20px;
-}
-.highlights {
-  background: linear-gradient(45deg, #43e97b, #38f9d7);
-  color: white;
-  padding: 20px;
-  border-radius: 10px;
-  margin-bottom: 20px;
-}
-.skills {
-  background: linear-gradient(45deg, #fa709a, #fee140);
-  color: white;
-  padding: 20px;
-  border-radius: 10px;
-  margin-bottom: 20px;
-}
-</style>
+<!-- 🔥 Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Madhu%20Singh&fontSize=40&fontColor=00ffcc&animation=fadeIn"/>
+</p>
 
-<div class="header">
-# 👋 Hi, I'm Madhu Singh  
-
-🔐 Cyber Security Undergraduate | 🛡️ Security Enthusiast | 🎓 Student at Chandigarh Group of Colleges  
-</div>
+<!-- 💻 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=24&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Ethical+Hacking+Enthusiast;Network+Security+Learner;Future+Security+Expert"/>
+</p>
 
 ---
 
-<div class="about">
-# 🌟 About Me  
+## 🔐 About Me  
 
-I am passionate about **ethical hacking, network security, and building secure systems**.  
-Skilled in programming and security fundamentals, with a strong interest in **threat analysis, vulnerability assessment, and continuous learning in cybersecurity**. 🚀  
-</div>
+🔹 Cyber Security undergraduate at **Chandigarh Group of Colleges, Jhanjeri**  
+🔹 Passionate about **Ethical Hacking, Network Security & Secure Systems**  
+🔹 Focused on **Threat Analysis, Vulnerability Assessment & Cyber Defense**  
+🔹 Always learning and exploring **emerging security technologies** 🚀  
 
 ---
 
-<div class="interests">
-# 💡 Interests  
+## 🎯 Interests  
+
 - 🔍 Ethical Hacking  
 - 🌐 Network Security  
 - 🛡️ Cyber Defense & Threat Analysis  
 - ☁️ Cloud Security  
-</div>
 
 ---
 
-<div class="highlights">
-# 🚀 Quick Highlights  
-- 💻 Strong foundation in Programming & Security  
-- 🧠 Problem Solver & Analytical Thinker  
-- 🤝 Teamwork & Leadership Skills  
-</div>
+## 🚀 Skills  
 
-<div class="skills">
-# 🚀 Skills
-🔐 **Cyber Security:** Ethical Hacking, Network Security, Cryptography, Vulnerability Assessment, Penetration Testing (Basics), Secure Communication
-🛠️ Security Tools: Nmap, Wireshark, Metasploit (Basics)
-💻 Programming: Python, C++, Java
-🌐 Web Technologies: HTML, CSS, JavaScript
-🐧 Operating Systems: Linux, Windows
-☁️ Cloud: AWS (Basics)
-🧠 Core Concepts: Data Structures & Algorithms, OOP, DBMS, Computer Networks
-</div>
+### 🔐 Cyber Security  
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-00ffcc?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network%20Security-00ffcc?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-00ffcc?style=for-the-badge)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-00ffcc?style=for-the-badge)
+
+### 🛠️ Security Tools  
+![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
+
+### 💻 Programming  
+![Python](https://img.shields.io/badge/Python-00ffcc?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00ffcc?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-00ffcc?style=for-the-badge)
+
+### 🌐 Web  
+![HTML](https://img.shields.io/badge/HTML-00ffcc?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-00ffcc?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-00ffcc?style=for-the-badge)
+
+---
+
+## 📂 Projects  
+
+- 🔐 **Offline Communication System**  
+- 🛡️ **WhatsApp Auto Message Transfer Tool**  
+- 🤖 **AI-Based Intrusion Detection System**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: your-link  
+
+---
+
+<!-- 🔥 Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
+</p>
