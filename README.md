@@ -1,13 +1,12 @@
 <!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=150&section=header&text=Madhu%20Singh&fontSize=45&fontColor=ff0000&animation=blinking"/>
+  <img src="https://github.com/madhu95659/madhu95659/blob/master/github-header-banner.png" alt="Madhu Singh Banner" />
 </p>
 <!-- 💻 Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=24&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Ethical+Hacking+Enthusiast;Network+Security+Learner;Future+Security+Expert"/>
 </p>
 
----
 
 ## 🔐 About Me  
 
