@@ -1,17 +1,6 @@
 <style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-@keyframes colorShift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
 .header {
   background: linear-gradient(45deg, #667eea, #764ba2);
-  background-size: 400% 400%;
-  animation: fadeIn 1s ease-in, colorShift 3s ease infinite;
   color: white;
   padding: 20px;
   border-radius: 10px;
@@ -20,8 +9,6 @@
 }
 .about {
   background: linear-gradient(45deg, #f093fb, #f5576c);
-  background-size: 400% 400%;
-  animation: fadeIn 1.5s ease-in, colorShift 3s ease infinite;
   color: white;
   padding: 20px;
   border-radius: 10px;
@@ -29,8 +16,6 @@
 }
 .interests {
   background: linear-gradient(45deg, #4facfe, #00f2fe);
-  background-size: 400% 400%;
-  animation: fadeIn 2s ease-in, colorShift 3s ease infinite;
   color: white;
   padding: 20px;
   border-radius: 10px;
@@ -38,8 +23,6 @@
 }
 .highlights {
   background: linear-gradient(45deg, #43e97b, #38f9d7);
-  background-size: 400% 400%;
-  animation: fadeIn 2.5s ease-in, colorShift 3s ease infinite;
   color: white;
   padding: 20px;
   border-radius: 10px;
@@ -47,8 +30,6 @@
 }
 .skills {
   background: linear-gradient(45deg, #fa709a, #fee140);
-  background-size: 400% 400%;
-  animation: fadeIn 3s ease-in, colorShift 3s ease infinite;
   color: white;
   padding: 20px;
   border-radius: 10px;
