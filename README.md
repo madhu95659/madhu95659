@@ -1,8 +1,7 @@
 <!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Madhu%20Singh&fontSize=40&fontColor=00ffcc&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=150&section=header&text=Madhu%20Singh&fontSize=45&fontColor=ff0000&animation=blinking"/>
 </p>
-
 <!-- 💻 Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=24&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Ethical+Hacking+Enthusiast;Network+Security+Learner;Future+Security+Expert"/>
@@ -72,7 +71,6 @@
 
 ## 🌐 Connect With Me  
 
-- 📧 Email: your-email@example.com  
 - 💼 LinkedIn: your-link  
 
 ---
